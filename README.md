@@ -1,17 +1,17 @@
 # Some links for download xeon phi softwares
 
-https://archive.org/download/mpss-4.4.1-windows
-https://archive.org/download/intel-mpss-3.8.6
-https://github.com/argentum47/LukMinerPhi
-https://lukminer.wordpress.com/
-https://archive.org/details/lukMiner-0.9.2
-https://sites.utexas.edu/jdm4372/2018/01/22/a-peculiar-throughput-limitation-on-intels-xeon-phi-x200-knights-landing/
-https://kastner.ucsd.edu/wp-content/uploads/2015/02/admin/README.html
-https://web.archive.org/web/20220331132457/http://www.lukminer.net/releases/lukMiner-2.0.0-cpu-phi.tgz
-https://web.archive.org/web/20210301104109if_/http://lukminer.net/releases/lukMiner-2.0.0-mpss-knl.tgz
-https://web.archive.org/web/20210301104105if_/http://lukminer.net/releases/lukMiner-2.0.0-cpu-phi.tgz
-https://web.archive.org/web/20201112041032/http://lukminer.net/releases/lukMiner-2.0.4-cpu-phi.tgz
-https://web.archive.org/web/20201112041032/http://lukminer.net/releases/lukMiner-2.0.0-cpu-phi.tgz
+##### https://archive.org/download/mpss-4.4.1-windows
+##### https://archive.org/download/intel-mpss-3.8.6
+##### https://github.com/argentum47/LukMinerPhi
+##### https://lukminer.wordpress.com/
+##### https://archive.org/details/lukMiner-0.9.2
+##### https://sites.utexas.edu/jdm4372/2018/01/22/a-peculiar-throughput-limitation-on-intels-xeon-phi-x200-knights-landing/
+##### https://kastner.ucsd.edu/wp-content/uploads/2015/02/admin/README.html
+##### https://web.archive.org/web/20220331132457/http://www.lukminer.net/releases/lukMiner-2.0.0-cpu-phi.tgz
+##### https://web.archive.org/web/20210301104109if_/http://lukminer.net/releases/lukMiner-2.0.0-mpss-knl.tgz
+##### https://web.archive.org/web/20210301104105if_/http://lukminer.net/releases/lukMiner-2.0.0-cpu-phi.tgz
+##### https://web.archive.org/web/20201112041032/http://lukminer.net/releases/lukMiner-2.0.4-cpu-phi.tgz
+##### https://web.archive.org/web/20201112041032/http://lukminer.net/releases/lukMiner-2.0.0-cpu-phi.tgz
 
 # Videos courses 
 
