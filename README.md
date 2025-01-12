@@ -16,7 +16,7 @@
 # Videos courses 
 
 #### Courses from https://www.youtube.com/@VadimKarpusenko
-#### Sample links to download all the videos courses with subtitles you want a specific language (\<LANG\> : en,ja,fr etc...)
+#### Sample links to download all the videos courses with subtitles you want a specific language (\<LANG\> = en,ja,fr etc...)
 #### You have to donwload the program "yt-dl" from https://github.com/ytdl-org/youtube-dl
 
 * yt-dl --sub- \<LANG\> --convert-subs srt --write-auto-sub --embed-subs --use-postprocessor srt_fix https://www.youtube.com/watch?v=SG03jx5nLXQ
