@@ -1,5 +1,7 @@
 # Some links for download xeon phi softwares
 
+* https://archive.org/details/lukStick-mpss-knc-0.10.1.iso (centos with pre-installed mpss for KNL)
+* https://archive.org/details/lukStick-mpss-knl-20190408.iso (centos with pre-installed mpss for KNC)
 * https://archive.org/download/mpss-4.4.1-windows
 * https://archive.org/download/intel-mpss-3.8.6
 * https://github.com/argentum47/LukMinerPhi
